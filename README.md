@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zlyhakaya
 - 👀 I’m interested in software
-- 🌱 I’m currently learning data scients and data analytcs
+- 🌱 I’m currently learning web developer with java
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me zlyhakaya@6gmail.com
 
